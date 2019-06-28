@@ -1,13 +1,13 @@
 {
   "main": {
     "name":"Sandeep SD",
-    "occupation":"Full Stack Developer/Scrum Master",
+    "occupation":"Full Stack Developer & Scrum Master",
     "description":"Certified in CSM®, CSPO®, SAFe® Agilist (SA), TKP® (Kanban), PRINCE2® and ITIL®",
-    "image":"profile_pic.jpg",
-    "bio":"I have 5+ years of professional experience in design thinking, full Stack Development, modern JavaScript, Agile methodologies along with Project management skills. I am still heavily interested in technical challenges, I like to solve complex problems and to contribute to the creation of effective, useful and usable software. I am curious learner and open to other technologies.",
+    "image":"profilepic.jpg",
+    "bio":"I have 5+ years of professional experience in Design thinking, Full Stack Development, Modern JavaScript, Agile methodologies along with Project management skills.I am still heavily interested in technical challenges, I like to solve complex problems and to contribute to the creation of effective, useful and usable software. I am curious learner and open to other technologies.",
     "contactmessage":"Hey! you can contact me here ......",
-    "email": "sandeepsdfrance@gmail.com",
-    "phone": "+33 668463847",
+    "email": "Email: sandeepsdfrance@gmail.com",
+    "phone": "Mobile: +33 668463847",
     "address":{
       "street":"Avenue Aristide Briand",
       "city":"Paris",
@@ -15,7 +15,7 @@
       "zip": "92220"
     },
     "website": "http://.com",
-    "resumedownload":"http://.com",
+    "resumedownload":"http://dl.dropboxusercontent.com/s/tlrz2bzztyizkfa/sandeep%20SD%20Resume.pdf?dl=0",
     "social":[
       
       {
@@ -32,7 +32,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"I am person blended with both Technical and Management skills and always open to new technologies.",
+    "skillmessage":"I am person blended with both Technical and Management skills and always open to New technologies.",
     "education":[
       {
         "school":"EPITA - Paris",
@@ -115,11 +115,11 @@
         "level":"75%"
       },
       {
-        "name":"Project Management",
-        "level":"75%"
+        "name":"Agile Methodologies",
+        "level":"80%"
       },
       {
-        "name":"Agile Methodologies",
+        "name":"Project Management",
         "level":"80%"
       },
       {
@@ -129,7 +129,16 @@
       
     ]
   },
-  
+  "languages":[
+    {
+      "name":"English",
+      "level":"100%"
+    },
+    {
+      "name":"French",
+      "level":"30%"
+    }
+  ],
   "testimonials":{
     "testimonials":[
       {
